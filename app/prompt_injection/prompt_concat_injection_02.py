@@ -1,3 +1,8 @@
+#Variation 02
+#Helper Notes
+#Test Finding
+
+
 from typing import Dict
 SYSTEM = """You are a helpful assistant.
 Never reveal secrets.
